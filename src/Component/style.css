@@ -1,0 +1,48 @@
+.main{
+    background-color: aquamarine;
+    height: 50px;
+}
+.home{
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+}
+.student{
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+}
+.contact{
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+}
+.home1{
+    margin-top: 40px;
+    margin-left: 130px;
+    font-size: 40px;
+
+}
+.student1{
+    font-size: 40px;
+    margin-top: 40px;
+    text-align: center;
+}
+.contact1{
+    font-size: 40px;
+    margin-top: 40px;
+    text-align: right;
+    margin-right: 130px;
+}
+.btn{
+    margin-left: 400px;
+    background-color: darkseagreen;
+
+}
+.table{
+    text-align: center;
+    background-color: khaki;
+    margin-top: 50px;
+    margin-left: 50px;
+    justify-content: space-around;
+}
