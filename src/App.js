@@ -9,6 +9,7 @@ import Contact from './Component/Contact';
 
 function App() {
   return (
+    
   <BrowserRouter>
   <Navbar/>
   <Routes>
